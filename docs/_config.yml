@@ -1,0 +1,16 @@
+title: Terminology Conversion
+description: A series of utilities and scripts for terminology resource conversion
+theme: just-the-docs
+
+url: https://hl7-eu.github.io/tx.hl7europe.eu
+
+#aux_links:
+#  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+plugins:
+  - jekyll-default-layout
+  - jekyll-spaceship  
+
+color_scheme: wider
+
+# Set a path/url to a logo that will be displayed instead of the title
+logo: "/assets/images/hl7-eu-logo.jpg"
