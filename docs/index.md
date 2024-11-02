@@ -4,4 +4,4 @@ title: Home
 nav_order: 1
 ---
 
-MVC-converter: A script to convert spreadsheet with MVC to FHIR resources using sushi language
+[MVC-converter](mvc-converter.html): A script to convert spreadsheet with MVC to FHIR resources expressed in FSH
