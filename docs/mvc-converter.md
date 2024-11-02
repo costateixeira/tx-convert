@@ -1,4 +1,10 @@
-# README: FSH File Generator from Excel Data
+---
+layout: default
+title: MVC Converter
+nav_order: 2
+---
+
+# MVC Converter
 
 This Python script processes ValueSet information from an Excel file and generates FSH (FHIR Shorthand) files based on provided metadata and data mappings. It is designed for transforming structured healthcare terminology data into a standardized format that can be used in FHIR implementations.
 
